@@ -6,7 +6,7 @@ export const siteConfig = {
   copyright: "© 2025 VGX REST API's. All rights reserved.",
 
   maintenance: {
-    enabled: true,
+    enabled: false,
     title: "Website Under Maintenance",
     message: "We're currently upgrading our systems to serve you better. Please check back in a few hours.",
     showHomeLink: false,
