@@ -150,7 +150,7 @@ export const siteConfig = {
 
   apiStatus: {
     "/ai/luminai": {
-      status: "online",
+      status: "offline",
       responseTime: 250,
       uptime: 99.9,
       lastChecked: "2025-01-22T10:30:00Z",
